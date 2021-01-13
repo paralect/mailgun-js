@@ -1,6 +1,6 @@
 # mailgun.js
 
-Fork of Mailgun-js library()
+Fork of Mailgun-js library
 Simple Node.js module for [Mailgun](https://github.com/mailgun/mailgun-js-boland), which is not maintained anymore.
 
 # Maintenance Notice

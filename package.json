@@ -1,19 +1,19 @@
 {
-  "name": "mailgun-js",
+  "name": "@paralect/mailgun-js",
   "description": "Simple Node.js helper module for Mailgun API",
   "keywords": [
     "email",
     "mailgun"
   ],
   "version": "0.3.0",
-  "homepage": "https://github.com/bojand/mailgun-js",
+  "homepage": "https://github.com/paralect/mailgun-js",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/bojand/mailgun-js.git"
+    "url": "https://github.com/paralect/mailgun-js.git"
   },
   "bugs": {
-    "url": "http://github.com/bojand/mailgun-js/issues"
+    "url": "https://github.com/paralect/mailgun-js/issues"
   },
   "engines": {
     "node": ">=6.0.0"
