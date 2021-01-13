@@ -8,6 +8,10 @@
   "version": "0.24.0",
   "homepage": "https://github.com/paralect/mailgun-js",
   "license": "MIT",
+  "private": false,
+  "author": {
+    "name": "Paralect"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/paralect/mailgun-js.git"
@@ -28,9 +32,6 @@
     "path-proxy": "~1.0.0",
     "promisify-call": "^2.0.2",
     "tsscmp": "^1.0.6"
-  },
-  "author": {
-    "name": "Bojan Djurkovic <dbojan@gmail.com>"
   },
   "devDependencies": {
     "clone": "^2.1.2",
