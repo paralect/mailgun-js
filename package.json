@@ -5,7 +5,7 @@
     "email",
     "mailgun"
   ],
-  "version": "0.3.0",
+  "version": "0.24.0",
   "homepage": "https://github.com/paralect/mailgun-js",
   "license": "MIT",
   "repository": {
